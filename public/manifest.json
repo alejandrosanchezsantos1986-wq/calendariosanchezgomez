@@ -1,0 +1,9 @@
+{
+  "name": "Espacio Familiar · Agenda 2026-2027",
+  "short_name": "Familiar",
+  "description": "Calendario familiar con horarios escolares DOGV 2026-2027, extraescolares y recordatorios",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FAF8F3",
+  "theme_color": "#85C7AC"
+}
